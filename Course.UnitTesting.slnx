@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CalculatriceLib/CalculatriceLib.csproj" />
+    <Project Path="src/TechniquesDeTest/TechniquesDeTest.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <File Path="test/exercice.txt" />
+    <Project Path="test/CalculatriceLib.Tests.Unit/CalculatriceLib.Tests.Unit.csproj" />
+  </Folder>
+</Solution>

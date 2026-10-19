@@ -1,0 +1,11 @@
+C:\Dev\formation\udemy\Maitriser les tests Unitaires en dot net Core et Xunit\src\CalculatriceLib\bin\Debug\net10.0\CalculatriceLib.deps.json
+C:\Dev\formation\udemy\Maitriser les tests Unitaires en dot net Core et Xunit\src\CalculatriceLib\bin\Debug\net10.0\CalculatriceLib.dll
+C:\Dev\formation\udemy\Maitriser les tests Unitaires en dot net Core et Xunit\src\CalculatriceLib\bin\Debug\net10.0\CalculatriceLib.pdb
+C:\Dev\formation\udemy\Maitriser les tests Unitaires en dot net Core et Xunit\src\CalculatriceLib\obj\Debug\net10.0\CalculatriceLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\formation\udemy\Maitriser les tests Unitaires en dot net Core et Xunit\src\CalculatriceLib\obj\Debug\net10.0\CalculatriceLib.AssemblyInfoInputs.cache
+C:\Dev\formation\udemy\Maitriser les tests Unitaires en dot net Core et Xunit\src\CalculatriceLib\obj\Debug\net10.0\CalculatriceLib.AssemblyInfo.cs
+C:\Dev\formation\udemy\Maitriser les tests Unitaires en dot net Core et Xunit\src\CalculatriceLib\obj\Debug\net10.0\CalculatriceLib.csproj.CoreCompileInputs.cache
+C:\Dev\formation\udemy\Maitriser les tests Unitaires en dot net Core et Xunit\src\CalculatriceLib\obj\Debug\net10.0\CalculatriceLib.dll
+C:\Dev\formation\udemy\Maitriser les tests Unitaires en dot net Core et Xunit\src\CalculatriceLib\obj\Debug\net10.0\refint\CalculatriceLib.dll
+C:\Dev\formation\udemy\Maitriser les tests Unitaires en dot net Core et Xunit\src\CalculatriceLib\obj\Debug\net10.0\CalculatriceLib.pdb
+C:\Dev\formation\udemy\Maitriser les tests Unitaires en dot net Core et Xunit\src\CalculatriceLib\obj\Debug\net10.0\ref\CalculatriceLib.dll

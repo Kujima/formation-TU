@@ -1,0 +1,21 @@
+﻿- Additionner deux nombres 
+	5 + 5 = 10
+	-5 + 5 = 0
+	-15 + (-5) = -20
+
+- Soustraire deux nombres
+	5 - 5 = 0
+	15 -5 = 10
+	-5 -(-5) = 0
+	-15 - (-5) = -10
+	5 - 10 = -5
+
+- Mutiplier deux nombres
+	5 * 5 = 25
+	50 * 0 = 0
+	-5 * 5 = -25
+
+- Diviser deux nombres
+	5 / 5 = 1
+	15 / 5 = 3
+	Ignorer un cas impossible de division par 0
