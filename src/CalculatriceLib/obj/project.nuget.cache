@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RmZXbTfGCSU=",
+  "dgSpecHash": "7TDsCcne2yY=",
   "success": true,
-  "projectFilePath": "C:\\Dev\\formation\\udemy\\Maitriser les tests Unitaires en dot net Core et Xunit\\src\\CalculatriceLib\\CalculatriceLib.csproj",
+  "projectFilePath": "C:\\dev\\formation\\formation-TU\\src\\CalculatriceLib\\CalculatriceLib.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

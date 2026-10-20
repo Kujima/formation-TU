@@ -9,3 +9,15 @@ C:\Dev\formation\udemy\Maitriser les tests Unitaires en dot net Core et Xunit\sr
 C:\Dev\formation\udemy\Maitriser les tests Unitaires en dot net Core et Xunit\src\CalculatriceLib\obj\Debug\net10.0\refint\CalculatriceLib.dll
 C:\Dev\formation\udemy\Maitriser les tests Unitaires en dot net Core et Xunit\src\CalculatriceLib\obj\Debug\net10.0\CalculatriceLib.pdb
 C:\Dev\formation\udemy\Maitriser les tests Unitaires en dot net Core et Xunit\src\CalculatriceLib\obj\Debug\net10.0\ref\CalculatriceLib.dll
+C:\dev\formation\formation-TU\src\CalculatriceLib\bin\Debug\net10.0\CalculatriceLib.deps.json
+C:\dev\formation\formation-TU\src\CalculatriceLib\bin\Debug\net10.0\CalculatriceLib.dll
+C:\dev\formation\formation-TU\src\CalculatriceLib\bin\Debug\net10.0\CalculatriceLib.pdb
+C:\dev\formation\formation-TU\src\CalculatriceLib\obj\Debug\net10.0\CalculatriceLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\formation\formation-TU\src\CalculatriceLib\obj\Debug\net10.0\CalculatriceLib.AssemblyInfoInputs.cache
+C:\dev\formation\formation-TU\src\CalculatriceLib\obj\Debug\net10.0\CalculatriceLib.AssemblyInfo.cs
+C:\dev\formation\formation-TU\src\CalculatriceLib\obj\Debug\net10.0\CalculatriceLib.csproj.CoreCompileInputs.cache
+C:\dev\formation\formation-TU\src\CalculatriceLib\obj\Debug\net10.0\CalculatriceLib.sourcelink.json
+C:\dev\formation\formation-TU\src\CalculatriceLib\obj\Debug\net10.0\CalculatriceLib.dll
+C:\dev\formation\formation-TU\src\CalculatriceLib\obj\Debug\net10.0\refint\CalculatriceLib.dll
+C:\dev\formation\formation-TU\src\CalculatriceLib\obj\Debug\net10.0\CalculatriceLib.pdb
+C:\dev\formation\formation-TU\src\CalculatriceLib\obj\Debug\net10.0\ref\CalculatriceLib.dll
