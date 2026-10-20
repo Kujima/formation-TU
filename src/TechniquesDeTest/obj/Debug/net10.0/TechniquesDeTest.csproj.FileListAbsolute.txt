@@ -1,11 +1,11 @@
+C:\dev\formation\formation-TU\src\TechniquesDeTest\bin\Debug\net10.0\TechniquesDeTest.deps.json
+C:\dev\formation\formation-TU\src\TechniquesDeTest\bin\Debug\net10.0\TechniquesDeTest.dll
+C:\dev\formation\formation-TU\src\TechniquesDeTest\bin\Debug\net10.0\TechniquesDeTest.pdb
 C:\dev\formation\formation-TU\src\TechniquesDeTest\obj\Debug\net10.0\TechniquesDeTest.GeneratedMSBuildEditorConfig.editorconfig
 C:\dev\formation\formation-TU\src\TechniquesDeTest\obj\Debug\net10.0\TechniquesDeTest.AssemblyInfoInputs.cache
 C:\dev\formation\formation-TU\src\TechniquesDeTest\obj\Debug\net10.0\TechniquesDeTest.AssemblyInfo.cs
 C:\dev\formation\formation-TU\src\TechniquesDeTest\obj\Debug\net10.0\TechniquesDeTest.csproj.CoreCompileInputs.cache
 C:\dev\formation\formation-TU\src\TechniquesDeTest\obj\Debug\net10.0\TechniquesDeTest.sourcelink.json
-C:\dev\formation\formation-TU\src\TechniquesDeTest\bin\Debug\net10.0\TechniquesDeTest.deps.json
-C:\dev\formation\formation-TU\src\TechniquesDeTest\bin\Debug\net10.0\TechniquesDeTest.dll
-C:\dev\formation\formation-TU\src\TechniquesDeTest\bin\Debug\net10.0\TechniquesDeTest.pdb
 C:\dev\formation\formation-TU\src\TechniquesDeTest\obj\Debug\net10.0\TechniquesDeTest.dll
 C:\dev\formation\formation-TU\src\TechniquesDeTest\obj\Debug\net10.0\refint\TechniquesDeTest.dll
 C:\dev\formation\formation-TU\src\TechniquesDeTest\obj\Debug\net10.0\TechniquesDeTest.pdb

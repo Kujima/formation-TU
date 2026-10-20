@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\dev\\formation\\formation-TU\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0EE676AE-93E6-30ED-2BF7-FE31FB4E5F13}|test\\ComprendreLesDependances.Api.Tests.Unit\\ComprendreLesDependances.Api.Tests.Unit.csproj|c:\\dev\\formation\\formation-tu\\test\\comprendrelesdependances.api.tests.unit\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE676AE-93E6-30ED-2BF7-FE31FB4E5F13}|test\\ComprendreLesDependances.Api.Tests.Unit\\ComprendreLesDependances.Api.Tests.Unit.csproj|solutionrelative:test\\comprendrelesdependances.api.tests.unit\\userservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04331AF-175C-F243-4113-2949C5828BD9}|src\\ComprendreLesDependances.Api\\ComprendreLesDependances.Api.csproj|c:\\dev\\formation\\formation-tu\\src\\comprendrelesdependances.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C04331AF-175C-F243-4113-2949C5828BD9}|src\\ComprendreLesDependances.Api\\ComprendreLesDependances.Api.csproj|solutionrelative:src\\comprendrelesdependances.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE676AE-93E6-30ED-2BF7-FE31FB4E5F13}|test\\ComprendreLesDependances.Api.Tests.Unit\\ComprendreLesDependances.Api.Tests.Unit.csproj|c:\\dev\\formation\\formation-tu\\test\\comprendrelesdependances.api.tests.unit\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE676AE-93E6-30ED-2BF7-FE31FB4E5F13}|test\\ComprendreLesDependances.Api.Tests.Unit\\ComprendreLesDependances.Api.Tests.Unit.csproj|solutionrelative:test\\comprendrelesdependances.api.tests.unit\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE676AE-93E6-30ED-2BF7-FE31FB4E5F13}|test\\ComprendreLesDependances.Api.Tests.Unit\\ComprendreLesDependances.Api.Tests.Unit.csproj|c:\\dev\\formation\\formation-tu\\test\\comprendrelesdependances.api.tests.unit\\comprendrelesdependances.api.tests.unit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0EE676AE-93E6-30ED-2BF7-FE31FB4E5F13}|test\\ComprendreLesDependances.Api.Tests.Unit\\ComprendreLesDependances.Api.Tests.Unit.csproj|solutionrelative:test\\comprendrelesdependances.api.tests.unit\\comprendrelesdependances.api.tests.unit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04331AF-175C-F243-4113-2949C5828BD9}|src\\ComprendreLesDependances.Api\\ComprendreLesDependances.Api.csproj|c:\\dev\\formation\\formation-tu\\src\\comprendrelesdependances.api\\comprendrelesdependances.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C04331AF-175C-F243-4113-2949C5828BD9}|src\\ComprendreLesDependances.Api\\ComprendreLesDependances.Api.csproj|solutionrelative:src\\comprendrelesdependances.api\\comprendrelesdependances.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB41F48-4FFA-BF13-74E4-272EC2DD0B54}|src\\CalculatriceLib\\CalculatriceLib.csproj|c:\\dev\\formation\\formation-tu\\src\\calculatricelib\\calculatricelib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7CB41F48-4FFA-BF13-74E4-272EC2DD0B54}|src\\CalculatriceLib\\CalculatriceLib.csproj|solutionrelative:src\\calculatricelib\\calculatricelib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{361B04EE-9EC9-4523-9E55-F3295EF8ED71}|test\\TechniquesDeTest.Tests.Unit\\TechniquesDeTest.Tests.Unit.csproj|c:\\dev\\formation\\formation-tu\\test\\techniquesdetest.tests.unit\\echantillontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{361B04EE-9EC9-4523-9E55-F3295EF8ED71}|test\\TechniquesDeTest.Tests.Unit\\TechniquesDeTest.Tests.Unit.csproj|solutionrelative:test\\techniquesdetest.tests.unit\\echantillontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,12 +46,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserServiceTests.cs",
+              "DocumentMoniker": "C:\\dev\\formation\\formation-TU\\test\\ComprendreLesDependances.Api.Tests.Unit\\UserServiceTests.cs",
+              "RelativeDocumentMoniker": "test\\ComprendreLesDependances.Api.Tests.Unit\\UserServiceTests.cs",
+              "ToolTip": "C:\\dev\\formation\\formation-TU\\test\\ComprendreLesDependances.Api.Tests.Unit\\UserServiceTests.cs",
+              "RelativeToolTip": "test\\ComprendreLesDependances.Api.Tests.Unit\\UserServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T13:41:57.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TechniquesDeTest",
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\dev\\formation\\formation-TU\\src\\ComprendreLesDependances.Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "src\\ComprendreLesDependances.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\dev\\formation\\formation-TU\\src\\ComprendreLesDependances.Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "src\\ComprendreLesDependances.Api\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T13:39:16.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\dev\\formation\\formation-TU\\test\\ComprendreLesDependances.Api.Tests.Unit\\Usings.cs",
+              "RelativeDocumentMoniker": "test\\ComprendreLesDependances.Api.Tests.Unit\\Usings.cs",
+              "ToolTip": "C:\\dev\\formation\\formation-TU\\test\\ComprendreLesDependances.Api.Tests.Unit\\Usings.cs",
+              "RelativeToolTip": "test\\ComprendreLesDependances.Api.Tests.Unit\\Usings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T13:36:06.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComprendreLesDependances.Api.Tests.Unit",
+              "DocumentMoniker": "C:\\dev\\formation\\formation-TU\\test\\ComprendreLesDependances.Api.Tests.Unit\\ComprendreLesDependances.Api.Tests.Unit.csproj",
+              "RelativeDocumentMoniker": "test\\ComprendreLesDependances.Api.Tests.Unit\\ComprendreLesDependances.Api.Tests.Unit.csproj",
+              "ToolTip": "C:\\dev\\formation\\formation-TU\\test\\ComprendreLesDependances.Api.Tests.Unit\\ComprendreLesDependances.Api.Tests.Unit.csproj",
+              "RelativeToolTip": "test\\ComprendreLesDependances.Api.Tests.Unit\\ComprendreLesDependances.Api.Tests.Unit.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-20T13:31:33.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComprendreLesDependances.Api",
+              "DocumentMoniker": "C:\\dev\\formation\\formation-TU\\src\\ComprendreLesDependances.Api\\ComprendreLesDependances.Api.csproj",
+              "RelativeDocumentMoniker": "src\\ComprendreLesDependances.Api\\ComprendreLesDependances.Api.csproj",
+              "ToolTip": "C:\\dev\\formation\\formation-TU\\src\\ComprendreLesDependances.Api\\ComprendreLesDependances.Api.csproj",
+              "RelativeToolTip": "src\\ComprendreLesDependances.Api\\ComprendreLesDependances.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-20T13:31:11.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalculatriceLib",
+              "DocumentMoniker": "C:\\dev\\formation\\formation-TU\\src\\CalculatriceLib\\CalculatriceLib.csproj",
+              "RelativeDocumentMoniker": "src\\CalculatriceLib\\CalculatriceLib.csproj",
+              "ToolTip": "C:\\dev\\formation\\formation-TU\\src\\CalculatriceLib\\CalculatriceLib.csproj",
+              "RelativeToolTip": "src\\CalculatriceLib\\CalculatriceLib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-20T13:31:05.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TechniquesDeTest.csproj",
               "DocumentMoniker": "C:\\dev\\formation\\formation-TU\\src\\TechniquesDeTest\\TechniquesDeTest.csproj",
               "RelativeDocumentMoniker": "src\\TechniquesDeTest\\TechniquesDeTest.csproj",
               "ToolTip": "C:\\dev\\formation\\formation-TU\\src\\TechniquesDeTest\\TechniquesDeTest.csproj",
@@ -39,20 +141,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "EchantillonTests.cs",
               "DocumentMoniker": "C:\\dev\\formation\\formation-TU\\test\\TechniquesDeTest.Tests.Unit\\EchantillonTests.cs",
               "RelativeDocumentMoniker": "test\\TechniquesDeTest.Tests.Unit\\EchantillonTests.cs",
               "ToolTip": "C:\\dev\\formation\\formation-TU\\test\\TechniquesDeTest.Tests.Unit\\EchantillonTests.cs",
               "RelativeToolTip": "test\\TechniquesDeTest.Tests.Unit\\EchantillonTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-20T08:06:30.722Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Echantillon.cs",
               "DocumentMoniker": "C:\\dev\\formation\\formation-TU\\src\\TechniquesDeTest\\Echantillon.cs",
               "RelativeDocumentMoniker": "src\\TechniquesDeTest\\Echantillon.cs",

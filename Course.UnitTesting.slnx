@@ -1,11 +1,13 @@
 <Solution>
   <Folder Name="/src/">
     <Project Path="src/CalculatriceLib/CalculatriceLib.csproj" />
+    <Project Path="src/ComprendreLesDependances.Api/ComprendreLesDependances.Api.csproj" />
     <Project Path="src/TechniquesDeTest/TechniquesDeTest.csproj" />
   </Folder>
   <Folder Name="/test/">
     <File Path="test/exercice.txt" />
     <Project Path="test/CalculatriceLib.Tests.Unit/CalculatriceLib.Tests.Unit.csproj" />
+    <Project Path="test/ComprendreLesDependances.Api.Tests.Unit/ComprendreLesDependances.Api.Tests.Unit.csproj" />
     <Project Path="test/TechniquesDeTest.Tests.Unit/TechniquesDeTest.Tests.Unit.csproj" Id="361b04ee-9ec9-4523-9e55-f3295ef8ed71" />
   </Folder>
 </Solution>
